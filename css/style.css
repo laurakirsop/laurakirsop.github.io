@@ -1,0 +1,45 @@
+body {
+  font-size: 16px;
+  font-family: 'Helvetica Neue';
+  font-weight: 200;
+  line-height: 1.4;
+}
+
+header {
+  padding: 10px 0;
+  text-align: center;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+nav {
+  box-sizing: border-box;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+nav a {
+  padding: 0 5px;
+  margin: 0 5px;
+}
+
+article {
+  box-sizing: border-box;
+  padding: 20px;
+  border: 2px solid #eee;
+  margin-bottom: 20px;
+}
+
+article h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+footer {
+  padding: 10px 0;
+  font-size: 0.9em;
+  text-align: right;
+}
